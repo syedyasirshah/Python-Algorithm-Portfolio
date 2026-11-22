@@ -19,7 +19,7 @@ The classifier is demonstrated using the Breast Cancer Wisconsin dataset from sc
 
 ## 2. PPE Compliance Analyzer
 
-**File:** `ppe_compliance/ppe_analyzer.py`
+**File:** `ppe_compliance/ppe_safety_compliance.py`
 
 A Python program that checks whether workers have the required Personal Protective Equipment (PPE) based on precomputed object detections.
 
